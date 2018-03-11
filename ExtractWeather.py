@@ -3,7 +3,7 @@ import json
 import datetime
 import csv
 
-key='c898f935e9e5c4ddc8c930f62fe499bc'
+key='##############'
 d = datetime.date(2014, 1, 1)
 delta = datetime.timedelta(days=1)
 
